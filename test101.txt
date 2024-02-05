@@ -1,0 +1,5 @@
+"This is data file"
+name: dixit
+sur: prajapati
+mobile: 9784838484
+email:dsfas@gmail.com
