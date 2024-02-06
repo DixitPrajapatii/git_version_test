@@ -9,8 +9,3 @@ email:dsfas@gmail.com
 
 "This is something that need to add in the third version"
 
-"this has to be added for branches"
-
-"THis need to add to check the other stages of that"
-
-ädd
